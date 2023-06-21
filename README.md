@@ -22,7 +22,10 @@ To do so, while in the Terminal inside the folder:
 `python main.py [folder_absolute_path] -l [language (optional)]`
 
 Parameters:
-- path to image [or folder with images]
-- --segment=true/false
-- --lang=heb/deu/eng/yid
-- output txt path [or folder with txt]
+- `folder_absolute_path` = folder with images for OCR
+- `--lang` = heb/deu/eng/yid
+
+After running the previous line of code, a new folder inside `ocr_output` will be created, and its content will be the OCR txt files for each image in `folder_absolute_path` 
+
+
+
