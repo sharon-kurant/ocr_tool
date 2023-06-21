@@ -2,7 +2,7 @@
 
 This tool uses the power of Tesseract and is complemented by *Automatic Page Segmentation (coming soon)*, and *Automatic Language Detection (coming sooner)*.
 
-To use this tool follow the installation process:
+**To use this tool follow the installation process:**
 - Download Tesseract:
   - [For MacOS](https://tesseract-ocr.github.io/tessdoc/Installation.html)
   - [For Windows](https://github.com/UB-Mannheim/tesseract/wiki)
@@ -10,11 +10,11 @@ To use this tool follow the installation process:
 - Finish installation by clicking next until the end
 - Add Tesseract to the *PATH*
 
-Next, download this code, there are two options:
+**Next, download this code, there are two options:**
 - Use `git clone`
 - Download it as a zip, and extract it to its folder
 
-Next, open the Terminal in the code location and run `pip install -r requirements.txt`
+**Next, open the Terminal in the code location and run `pip install -r requirements.txt`**
 
 ## Now you are ready to use the Deep Catalog OCR tool
 
